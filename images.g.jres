@@ -1,0 +1,32 @@
+{
+    "image3": {
+        "data": "hwQQABAAAAAAALC7u7sLAAAAsLqtqgsAAACrutXaCwAAAKu61Vq6AACwqr1VWr0AALCqvVVatQAAq6q9XaqlCwCrqq1brdULsO6q2lulVQvgI67aW6VVC+sirtpapVW6q+6q2tqtVb2rqqra2r3dvbCqqt3avd2tAKCqrdq9q6sAAKCqqqqqCg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "grape peace of cake"
+    },
+    "image1": {
+        "data": "hwQQAA4AAAAAQJQAAAAAAACUmQkAAAAAQJlJmQ8AAABAmUSZSf//AECZlPmZmPkAAJmZmZmY9AAAkJmZ9Jj5AACQmZn0mP8AAJmZmZmYDwBAmZT5mZgPAECZRJmJlPkAQJlJmf/0/wAAlJkJ8PQAAABAlACf+QAAAAAAAP8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "sky dog"
+    },
+    "image2": {
+        "data": "hwQOAA4AAAAQzPwR/wAAABCxsxGx/w8AEBE78REW8QAAHBERHxb7AADwERGxFvEAAPAbEbEW/wAAHBERHxYPABARO/ERFg8AELGzEWER8QAQzPwRv/v/AAAAALD/8QAAAAAA8BH7AAAAAACw/w8AAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pop corn cat"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAMwsAAAAAADARvQAAAAAA0xERvQAAADDdHRHRCwAAExHRERG9AAATEREdEbEAANsREdER0QsAM90R0RERCwDT0R0RERELAB0RHREdEQ0AHRHRER0RDQATHRERHdEDABMzG9E7MwAAMDEwMwMAAAAAMwAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": " pink icing"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pink icing"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
